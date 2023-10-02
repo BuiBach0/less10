@@ -1,0 +1,23 @@
+.form-login {
+    background-color: #ccc;
+    width: 195px;
+    padding: 30px;
+    margin-top: 200px;
+    margin-left: 750px
+}
+
+.img {
+    border-radius: 50%;
+}
+
+.input-email {
+    padding: 4px;
+    width: 180px;
+    
+    border-bottom: 0
+}
+
+.input-password {
+    padding: 4px;
+    width: 180px;
+}   
